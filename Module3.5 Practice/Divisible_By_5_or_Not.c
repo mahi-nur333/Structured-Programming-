@@ -13,7 +13,7 @@ int main()
         }
         else
         {
-            printf("%d NO\n", i);
+            printf("%d No\n", i);
         }
     }
 
